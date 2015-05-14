@@ -1,0 +1,23 @@
+{
+    "name": "richplastow/magazzino",
+    "description": "A unique magazine style WordPress theme, based on Bones",
+    "version": "0.0.1",
+    "time": "2015-05-14",
+    "keywords": ["WordPress", "magazine", "responsive", "theme", "Bones"],
+    "homepage": "http://magazzino.richplastow.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rich Plastow",
+            "email": "rich@richplastow.com",
+            "homepage": "http://richplastow.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "Alberto Antoniazzi",
+            "email": "albyantoniazzi@gmail.com",
+            "homepage": "http://www.minisimpli.com/",
+            "role": "Designer"
+        }
+    ],
+}
